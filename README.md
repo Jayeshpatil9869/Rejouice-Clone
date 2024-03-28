@@ -1,0 +1,1 @@
+Welcome to Rejouice, a website where I showcase my HTML, CSS, and JavaScript skills through practical projects. This platform serves as a playground for honing my front-end development expertise and experimenting with creative design elements.
